@@ -26,6 +26,8 @@ def run():
 
     st.write("# Welcome to Streamlit! 👋")
 
+    st.write("## Seja bem vindo pessoal do FLISOL 2024! ")
+
     st.sidebar.success("Select a demo above.")
 
     st.markdown(
