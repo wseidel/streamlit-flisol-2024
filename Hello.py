@@ -28,7 +28,7 @@ def run():
 
     st.write("## Seja bem vindo pessoal do FLISOL 2024!! - vamos começar!")
 
-    st.sidebar.success("Select a demo above.")
+    st.sidebar.success("Seleciona um demo abaixo:")
 
     st.markdown(
         """
